@@ -19,4 +19,3 @@ A fast, minimal typing speed test for developers — inspired by [Monkeytype](ht
 
 - **React** — frontend framework
 - **Tailwind CSS** — styling
->>>>>>> 8ff423c3e05506083dd8d491579120f66939587c
